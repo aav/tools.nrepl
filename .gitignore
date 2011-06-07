@@ -9,6 +9,7 @@
 .project
 .classpath
 .settings
+build.properties
 
 # artifacts, etc
 eclipse-classes
